@@ -1,0 +1,25 @@
+# Private media and local projects
+*.mp4
+*.mov
+*.m4v
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.srt
+*.json
+!agents/openai.yaml
+!package.json
+node_modules/
+04_预览/
+00_源文件/
+01_文字稿/
+02_配图素材/
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+*.p12

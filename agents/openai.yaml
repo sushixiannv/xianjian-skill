@@ -1,0 +1,4 @@
+interface:
+  display_name: "仙剪｜竖屏口播导演"
+  short_description: "以口播时序为真源，完成竖屏真人视频的分镜、证据、动效与声音设计"
+  default_prompt: "使用 $xianjian-portrait-editor 处理我已初剪的口播视频，以 V5.6 基线先核对字幕和素材，再提交分镜方案与关键帧供我审核。"
